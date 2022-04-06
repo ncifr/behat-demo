@@ -1,0 +1,15 @@
+{
+    "name": "nci/behat-demo",
+    "autoload": {
+        "psr-4": {
+            "NCI\\BehatDemo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mathieu LALLEMAND",
+            "email": "mathieu.lallemand@nci.fr"
+        }
+    ],
+    "require": {}
+}
